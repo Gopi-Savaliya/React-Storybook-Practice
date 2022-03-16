@@ -1,0 +1,21 @@
+.input {
+  /* padding: 15px; */
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.small {
+  width: 250px;
+  font-size: 14px;
+}
+
+.medium {
+  width: 270px;
+  font-size: 16px;
+}
+
+.large {
+  width: 290px;
+  font-size: 18px;
+}
